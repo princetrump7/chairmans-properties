@@ -32,7 +32,7 @@ Font Awesome Icons
 
 (Replace with your GitHub Pages link after deployment)
 
-https://your-username.github.io/chairmans-properties/
+https://princetrump7.github.io/chairmans-properties/
 
 📂 Project Structure
 index.html
